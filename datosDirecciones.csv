@@ -4,7 +4,7 @@
 3,conocido ,Huitzachahuatl,203,167,43003,Hidalgo,Huejutla,6,Cerca de la primaria Leona Vicario,21.1241,-98.4327
 4,Charco Azul,Charco Azul,12,21,43000,Hidalgo,Huejutla de Reyes,4,En frente de la UTHH,21.1243,-98.4329
 5,3 El Naranjal,Santa Elena,115,265,43000,Hgo.,Huejutla de Reyes,6,Frente a una iglesia,21.1473,-98.4166
-6, Ignacio Ramírez,El Maguey,0,5,92148,Ver.,Platón Sánchez,20,Polleria Azuara ua,21.2705,-98.3708
+6, Ignacio Ramírez,El Maguey,0,5,92148,Ver.,Platón Sánchez,20,Polleria Azuara ua,21.146355,-98.426277
 7,4 Caminos,Anahuac,12,2,43000,Hgo.,Huejutla de Reyes,20,Cerca de las artesanías ,21.1501,-98.3977
 8, Framboyan,Los Prados,134,3,43000,Hgo.,Huejutla de Reyes,20,Es una casa con arboles de naranja,21.1466,-98.4013
 9,142 Palma,Valle del Encinal,134,2,43000,Hgo.,Huejutla de Reyes,20,Una casa amarrilla de 3 pisos,21.1451,-98.406
@@ -62,12 +62,12 @@
 59, Encino,Valle del Encinal,3,14,43000,Hgo.,Huejutla de Reyes,20,Una casa naranja,21.1433,-98.4054
 60,331 Encino,Valle del Encinal,13,21,43000,Hgo.,Huejutla de Reyes,20,Por un arbol loco,21.1436,-98.407
 61, Calle Las Flores,Valle del Encinal,2,41,43000,Hgo.,Huejutla de Reyes,20,Una casa cerca de albercas Bikini,21.1439,-98.4041
-62,Doctor Coss,El Maguey,0,5,91148,Veracruz,Platón Sánchez,4,frente a una casa roja,21.2705,-98.3708
+62,Doctor Coss,El Maguey,0,5,91148,Veracruz,Platón Sánchez,4,frente a una casa roja,21.145418,-98.426354
 63, Numero Dos,Los Prados,,3,43000,Hgo.,Huejutla de Reyes,20,A lado de las Ventanas de don Julio,21.1458,-98.4007
 64,787 Palma,Valle del Encinal,,2,43000,Hgo.,Huejutla de Reyes,20,Con pasandia de Barbería Carlyn,21.1464,-98.4043
 65, Lirio,Los Cantores,13,2,43000,Hgo.,Huejutla de Reyes,20,Cerca de papelería Esther,21.1438,-98.4108
 66, Jalamates,Valle del Encinal,2,10,43000,Hgo.,Huejutla de Reyes,20,Junto a una palmera,21.1417,-98.4051
-67, Calle Doctor Coss,La Loma,5,0,93142,Ver.,Platón Sánchez,4,alado de una casa color rojo,21.2684,-98.3766
+67, Calle Doctor Coss,La Loma,5,0,93142,Ver.,Platón Sánchez,4,alado de una casa color rojo,21.146842,-98.426876
 68, Adolfo López Mateos,Aviación Civil,36,65,43000,Hgo.,Huejutla de Reyes,6,casa de dos pisos color azul,21.1463,-98.4065
 69,123 Veracruz,Nuevo México,53,87,43000,Hgo.,Huejutla de Reyes,6,edificio color naranja,21.1521,-98.4015
 70,29 Arboleda,Flavio Crespo,65,23,43000,Hgo.,Huejutla de Reyes,6,edificio morado,21.1516,-98.3999
@@ -125,3 +125,8 @@
 122,4 20 de Noviembre,Loma Bonita,128,93,43000,Hgo.,Huejutla de Reyes,4,casa naranja,21.149457,-98.4291078
 123,235 Doctores,Loma Bonita,123,765,43000,Hgo.,Huejutla de Reyes,4,casa al final de la calle,21.1502547,-98.4295794
 124,4 20 de Noviembre,Loma Bonita,654,542,43000,Hgo.,Huejutla de Reyes,4,casa tosa con portón amarillo,21.149457,-98.4291078
+125,12 Lomas Verdes,Electricistas,432,567,43000,Hgo.,Huejutla de Reyes,4,casa morada,21.1493852,-98.4289609
+126, L Cárdenas,Loma Bonita,567,123,43000,Hgo.,Huejutla de Reyes,4,asdfghjkl,21.1498293,-98.4296555
+127,330 L Cárdenas,Loma Bonita,543,23,43000,Hgo.,Huejutla de Reyes,4,casa rosa con puerta café en la esquina,21.1497671,-98.4296135
+128, 18 de Marzo,Loma Bonita,1237543,754,43000,Hgo.,Huejutla de Reyes,4,casa roja,21.1504978,-98.4300241
+129, 18 de Marzo,Loma Bonita,321,987,43000,Hgo.,Huejutla de Reyes,4,casa rosa de dos pisos,21.1504978,-98.4300241
