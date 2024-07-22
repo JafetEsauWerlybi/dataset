@@ -1,0 +1,107 @@
+DireccionID,Calle,Colonia,NumeroInterior,NumeroExterior,CP,Estado,Ciudad,UsuarioID,Referencias,Long,Lat
+1,Mexico,Adolfo Lopez Mateos,20,4,43000,Hidalgo,Huejutla,20,A lado de una tienda llamada Josefa,-98.4321,21.1235
+2,Juarez,Adolfo Lopez Mateos,20,4,43000,Hidalgo,Huejutla,20,A un lado de la casa de Doña Mary,-98.4322,21.1236
+5,Merida,5 de mayo,12,12,43000,Hidalgo,Huejutla,6,A lado de una tienda llamada plásticos Juquila,-98.4325,21.1239
+6,Silencio,Hidalgo,10,S/N,43000,Hidalgo,Huejutla,1,Es una tienda llamada Panchito,-98.4326,21.1240
+7,conocido ,Huitzachahuatl,203,167,43003,Hidalgo,Huejutla,6,Cerca de la primaria Leona Vicario,-98.4327,21.1241
+8,Madero,Parajes,232,234,43000,Hidalgo,Huejutla,6,"Cerca del oxo,, cerca de la entrada principal ",-98.4328,21.1242
+9,Charco Azul,Charco Azul,12,21,43000,Hidalgo,Huejutla de Reyes,4,En frente de la UTHH,-98.4329,21.1243
+10,Ignacio Ramirez,La loma,5,0,92148,Veracruz,Platon Sanchez,4,Polleria ,-97.6543,20.9876
+11,3 El Naranjal,Santa Elena,115,265,43000,Hgo.,Huejutla de Reyes,6,Frente a una iglesia,-98.4166247,21.1473082
+12,Merida,5 de Mayo,0,13,43000,Hgo.,Huejutla de Reyes,20,Es una tienda cerca de chacharas Miguel,-98.4136249,21.1384759
+13, Ignacio Ramírez,El Maguey,0,5,92148,Ver.,Platón Sánchez,20,Polleria Azuara ua,-98.3707611,21.2704826
+14, Palma,Adolfo López Mateos,23,0,43000,Hgo.,Huejutla de Reyes,20,A lado de los tritones ,-98.4071147,21.1509985
+15,4 Caminos,Anahuac,12,2,43000,Hgo.,Huejutla de Reyes,20,Cerca de las artesanías ,-98.3976819,21.1500922
+16, Encino,Valle del Encinal,3,14,43000,Hgo.,Huejutla de Reyes,20,Una casa naranja,-98.4054015,21.1433208
+17, Framboyan,Los Prados,134,3,43000,Hgo.,Huejutla de Reyes,20,Es una casa con arboles de naranja,-98.40130459999999,21.1465838
+18,331 Encino,Valle del Encinal,13,21,43000,Hgo.,Huejutla de Reyes,20,Por un arbol loco,-98.4070114,21.14360289999999
+19,142 Palma,Valle del Encinal,134,2,43000,Hgo.,Huejutla de Reyes,20,Una casa amarrilla de 3 pisos,-98.40597480000001,21.145113
+20, Calle Las Flores,Valle del Encinal,2,41,43000,Hgo.,Huejutla de Reyes,20,Una casa cerca de albercas Bikini,-98.40405659999999,21.1438526
+21, Azafrán,Valle del Encinal,21,31,43000,Hgo.,Huejutla de Reyes,20,Cerca de purificadora reyes,-98.4055374,21.1440584
+22,Doctor Coss,El Maguey,0,05,91148,Veracruz,Platón Sánchez,4,frente a una casa roja,-98.3707611,21.2704826
+23, Lima,Valle del Encinal,S/N,14,43000,Hgo.,Huejutla de Reyes,20,"Cerca de estafeta a un lado de doña Miriam
+",-98.4030067,21.1466393
+24, Numero Dos,Los Prados,S/N,3,43000,Hgo.,Huejutla de Reyes,20,A lado de las Ventanas de don Julio,-98.4006771,21.1458149
+25, Escuadrón 201,Aviación Civil,S/N,10,43000,Hgo.,Huejutla de Reyes,20,Pasando barbería caitlyn,-98.40311349999999,21.1474955
+26,787 Palma,Valle del Encinal,S/N,2,43000,Hgo.,Huejutla de Reyes,20,Con pasandia de Barbería Carlyn,-98.40427799999999,21.1463944
+27,405 Monte Alban,Valle del Encinal,1,12,43000,Hgo.,Huejutla de Reyes,20,Cerca de uñas Linda,-98.40318119999999,21.1456907
+28, Lirio,Los Cantores,13,2,43000,Hgo.,Huejutla de Reyes,20,Cerca de papelería Esther,-98.4108093,21.1437826
+29, Clavel,Aviación Civil,0,12,43000,Hgo.,Huejutla de Reyes,20,A lado del señor de la tienda,-98.4080126,21.1423287
+30, Jalamates,Valle del Encinal,2,10,43000,Hgo.,Huejutla de Reyes,20,Junto a una palmera,-98.4051142,21.1417089
+31, Quebrache,Fovissste,S/N,12,43000,Hgo.,Huejutla de Reyes,20,"A un lado de las comidas
+",-98.40498819999999,21.1418703
+32, Calle Doctor Coss,La Loma,5,0,93142,Ver.,Platón Sánchez,4,alado de una casa color rojo,-98.37656349999999,21.2684461
+33, Bougambilias,Comaltepec,43,05,43000,Hgo.,Huejutla de Reyes,6,edificio color verde,-98.40701729999999,21.1479454
+34, Adolfo López Mateos,Aviación Civil,36,65,43000,Hgo.,Huejutla de Reyes,6,casa de dos pisos color azul,-98.4065114,21.1462895
+35,151 Guerrero,Nuevo México,63,94,43000,Hgo.,Huejutla de Reyes,6,casa color rosa,-98.4011383,21.1504986
+36,123 Veracruz,Nuevo México,53,87,43000,Hgo.,Huejutla de Reyes,6,edificio color naranja,-98.4014751,21.1520732
+37, La Paz,Nuevo México,163,76,43000,Hgo.,Huejutla de Reyes,6,casa con portón café,-98.4014808,21.1536531
+38,29 Arboleda,Flavio Crespo,65,23,43000,Hgo.,Huejutla de Reyes,6,edificio morado,-98.3998876,21.1516004
+39,192 Fco I Madero,Marcelo Vite,123,765,43000,Hgo.,Huejutla de Reyes,6,casa verde,-98.3994219,21.1528235
+40,192 Fco I Madero,Cruz Verde,234,753,43000,Hgo.,Huejutla de Reyes,6,asdfghjkl,-98.42926030000001,21.1392023
+41,649 Independencia,Flavio Crespo,654,9876,43000,Hgo.,Huejutla de Reyes,6,qwertyuh,-98.4008096,21.1537136
+42, Rev Mexicana,Flavio Crespo,2345,54,43000,Hgo.,Huejutla de Reyes,6,asdfghjlkjhgfdfghj,-98.4012441,21.1540245
+43, Bálsamo,Valle del Encinal,S/N,21,43000,Hgo.,Huejutla de Reyes,20,Es una casa roja,-98.40536279999999,21.1427006
+44, V Gro,Flavio Crespo,456,567,43000,Hgo.,Huejutla de Reyes,6,en frente de una ferreteria,-98.4011914,21.1550624
+45, Niños Heroes,Carlos Fayad Orozco,34,567,43000,Hgo.,Huejutla de Reyes,6,al lado de una farmacia,-98.4250641,21.1430713
+46,32 Fco I Madero,Marcelo Vite,34,7654,43000,Hgo.,Huejutla de Reyes,6,casa rosa,-98.3991502,21.1520065
+47, Calle Hidalgo,Santa Irene,345,876,43000,Hgo.,Huejutla de Reyes,6,casa café con portón azul,-98.4165888,21.1424348
+48, Jaltocan,Paraíso de las Huastecas,34,765,43000,Hgo.,Huejutla de Reyes,6,casa azul de tres pisos,-98.3993168,21.1552131
+49, Aldama,5 de Mayo,S/N,1,43000,Hgo.,Huejutla de Reyes,20,Frente un restaurante,-98.41498320000001,21.1381833
+50, Nicolás Romero,Tahuizan,12,3,43000,Hgo.,Huejutla de Reyes,20,Casa de gris,-98.42277419999999,21.1441005
+51,111 Boulevar 3 Huastecas,Paraíso de las Huastecas,765,8765,43000,Hgo.,Huejutla de Reyes,6,casa amarilla con arcos blancos,-98.39954499999999,21.1555221
+52, San Luis,Tahuizan,S/N,2,43000,Hgo.,Huejutla de Reyes,20,Una casa roja,-98.4239882,21.1443028
+53, Telegrafista,Obrera,22,S/N,43000,Hgo.,Huejutla de Reyes,9,Casa roja,-98.4268487,21.1454457
+54,8 Ignacio Lugo Terán,Juárez,456,45,43000,Hgo.,Huejutla de Reyes,6,casa con portón café ,-98.4197076,21.143536
+55,17 Coahuila,Tahuizan,345,765,43000,Hgo.,Huejutla de Reyes,6,casa color naranja con café,-98.42216909999999,21.1436025
+56,422 Nicolás Romero,Tahuizan,345,7654,43000,Hgo.,Huejutla de Reyes,6,sdfgh,-98.42226149999999,21.1436365
+57,443 Allende,Tahuizan,345,876,43000,Hgo.,Huejutla de Reyes,6,asdfghj,-98.4228093,21.144046
+58, Anís,Obrera,S/N,4,43000,Hgo.,Huejutla de Reyes,9,De lado izquierdo de la salida,-98.42754819999999,21.1448871
+59,382 Allende,Tahuizan,638,644,43000,Hgo.,Huejutla de Reyes,6,al lado de una tienda de bicicletas,-98.4222111,21.1451397
+60, Ruíz Palacios,Carlos Fayad Orozco,21,1,43000,Hgo.,Huejutla de Reyes,1,Sn,-98.4271892,21.1441083
+61,45 San Luis,Tahuizan,462,637,43000,Hgo.,Huejutla de Reyes,6,cas con portón blanco,-98.4235537,21.1440593
+62, Zapata,Carlos Fayad Orozco,S/N,1,43000,Hgo.,Huejutla de Reyes,1,A lado del terreno valdió ,-98.42731099999999,21.142602
+63, Aldama,El Campamento,253,753,43000,Hgo.,Huejutla de Reyes,6,al lado de un taller,-98.39754219999999,21.1341152
+64,18 Francisco Villa,Huasteco,1,21,43000,Hgo.,Huejutla de Reyes,1,Sn,-98.4226686,21.1473537
+65, Ecuador,La Providencia,S/N,S/N,43000,Hgo.,Huejutla de Reyes,1,Conjunto de la señora de las tostadas,-98.4258898,21.1412491
+66,107 San Luis,Tahuizan,765,876,43000,Hgo.,Huejutla de Reyes,6,casa con portón blanco al lado de una tienda,-98.42414830000001,21.144477
+67, Venezuela,La Providencia,S/N,2,43000,Hgo.,Huejutla de Reyes,1,A la altura del señor de los botellones,-98.4276211,21.1397965
+68, Tecoluco,La Providencia,1,2,43000,Hgo.,Huejutla de Reyes,1,Pozo a un lado,-98.425938,21.1400685
+69, Revolución,Luis Donaldo Colosio,2,1,43000,Hgo.,Huejutla de Reyes,1,Llegando a las pizzas,-98.42399680000001,21.1413388
+70,77 Telegrafista,Tahuizan,375,863,43000,Hgo.,Huejutla de Reyes,6,casa rosa con blanco,-98.4257069,21.1449157
+71, A Serdán,Luis Donaldo Colosio,S/N,S/N,43000,Hgo.,Huejutla de Reyes,1,Sn,-98.42378989999999,21.1401887
+72, Principal,Los Frailes,S/N,1,43000,Hgo.,Huejutla de Reyes,1,Sn,-98.42734779999999,21.1330718
+73, Principal,Capitán Antonio Reyes,S/N,1,43000,Hgo.,Huejutla de Reyes,1,Casi llegando a los panes,-98.4247855,21.1390703
+74, San José,Bernabé Cruz Flores,S/N,12,43000,Hgo.,Huejutla de Reyes,1,Frente al gim,-98.42595299999999,21.1396113
+75, 16 de Sept,La Providencia,S/N,21,43000,Hgo.,Huejutla de Reyes,1,Frente a las tostadas,-98.4273529,21.1413435
+76,206 Anís,Obrera,256,353,43000,Hgo.,Huejutla de Reyes,6,casa blanca en la esquina,-98.4271182,21.145732
+77,209 Telegrafista,Obrera,356,3456,43000,Hgo.,Huejutla de Reyes,6,casa con arbustos en frente,-98.42779499999999,21.1458485
+81, Anís,Obrera,54,765,43000,Hgo.,Huejutla de Reyes,6,en frente del centro pastoral,-98.42754819999999,21.1448871
+83, Valenzuela,Huasteco,S/N,1,43000,Hgo.,Huejutla de Reyes,3,Sn,-98.4220092,21.1484404
+84,10 Juan Escutia,Obrera,456,765,43000,Hgo.,Huejutla de Reyes,6,casa blanca de dos pisos,-98.4272836,21.1449263
+85, Belizario Domínguez,Lomas de Chapultepec,S/N,23,43000,Hgo.,Huejutla de Reyes,3,Sn,-98.42219779999999,21.1506334
+86, 5 de Feb,Lomas de Chapultepec,S/N,2,43000,Hgo.,Huejutla de Reyes,3,Junto a las canchas,-98.4221845,21.1494615
+87, 21 de Mayo,Lomas de Chapultepec,S/N,12,43000,Hgo.,Huejutla de Reyes,3,Junto al poste de mango,-98.4228454,21.1496814
+88, 24 de Junio,Jesús Murillo Karam,S/N,32,43000,Hgo.,Huejutla de Reyes,3,Frente al kiosco,-98.4249832,21.1520737
+89,25 Díaz Mirón,Rojo Lugo,S/N,23,43000,Hgo.,Huejutla de Reyes,3,Frente a direccion general,-98.425293,21.151113
+90,102 Juan Escutia,Obrera,763,165,43000,Hgo.,Huejutla de Reyes,6,casa con barda naranja,-98.42807169999999,21.1448145
+91,55 Díaz Mirón,Electricistas,1,23,43000,Hgo.,Huejutla de Reyes,3,Frente a la cancha,-98.4269278,21.1492098
+92, Tenochtitlan,Obrera,65,765,43000,Hgo.,Huejutla de Reyes,6,casa de dos pisos con rejas negras,-98.42862989999999,21.1443647
+93,6 Pipila,Jesús Murillo Karam,S/N,14,43000,Hgo.,Huejutla de Reyes,3,A un lado de los antojitos,-98.42585980000001,21.1511253
+94,11 Xochicalco,Obrera,654,8765,43000,Hgo.,Huejutla de Reyes,6,casa verde con portón naranja y blanco,-98.4280024,21.144438
+95, Anís,Obrera,345,765,43000,Hgo.,Huejutla de Reyes,6,casa con portón rojo,-98.42754819999999,21.1448871
+96, Justo Sierra,Jesús Murillo Karam,12,09,43000,Hgo.,Huejutla de Reyes,3,sn,-98.4261801,21.1520728
+97,176 Rubén Darío,Jesús Murillo Karam,2,21,43000,Hgo.,Huejutla de Reyes,3,Frente al terreno,-98.4242161,21.1530928
+98, 20 de Noviembre,Lomas de Chapultepec,S/N,2,43000,Hgo.,Huejutla de Reyes,3,Sn,-98.423397,21.152741
+99, Maria Garante,Jesús Murillo Karam,S/N,21,43000,Hgo.,Huejutla de Reyes,3,Frente a la sitcom,-98.4236548,21.1535029
+100, J o de Domínguez,Rojo Lugo,S/N,21,43000,Hgo.,Huejutla de Reyes,3,Frente a la salida,-98.4238944,21.1526152
+101, Aracely Molinos,Jesús Murillo Karam,S/N,2,43000,Hgo.,Huejutla de Reyes,3,sN,-98.42428969999999,21.1535004
+102, Calle Agustin Escamilla,Jesús Murillo Karam,S/N,3,43000,Hgo.,Huejutla de Reyes,3,Frente a las sucursal de doña elote,-98.4251061,21.1535555
+103, Alberto Lara Zúñiga,Jesús Murillo Karam,S/N,25,43000,Hgo.,Huejutla de Reyes,3,Sn,-98.42552069999999,21.1534971
+104,15 Las Norias,Obrera,765,76,43000,Hgo.,Huejutla de Reyes,6,casa de dos pisos blanco con café,-98.4285214,21.1440482
+105, Elpidio Lara,Jesús Murillo Karam,S/N,32,43000,Hgo.,Huejutla de Reyes,3,Junto a salidas a san felipe,-98.425286,21.1541251
+106,54 Xochicalco,Obrera,34,54,43000,Hgo.,Huejutla de Reyes,6,casa con portón de madera,-98.42737319999999,21.1443815
+107,10 Juan Escutia,Obrera,34,765,43000,Hgo.,Huejutla de Reyes,6,al lado de un jardín de niños,-98.4272836,21.1449263
+108,12 Xochicalco,Obrera,345,76,43000,Hgo.,Huejutla de Reyes,6,casa con molduras de cisne,-98.4278607,21.1444482
+109,54 Xochicalco,Obrera,543,456,43000,Hgo.,Huejutla de Reyes,6,casa amarilla de dos pisos,-98.42737319999999,21.1443815
+110, Río Papaloapan,Tahuizan,34,765,43000,Hgo.,Huejutla de Reyes,6,casa naranja con portón verde al lado de una polleria,-98.4262461,21.1446399
