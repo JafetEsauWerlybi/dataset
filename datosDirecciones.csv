@@ -638,3 +638,186 @@
 933,Calle Benito Juárez,El Progreso,Int 132,132,43000,Hidalgo,Huejutla de Reyes,35,Cerca del Mercado,21.1291,-98.4259
 934,Calle Francisco I. Madero,San Rafael,Int 133,133,43000,Hidalgo,Huejutla de Reyes,36,Frente al Supermercado,21.1292,-98.4258
 935,Calle Vicente Guerrero,San Juan,Int 134,134,43000,Hidalgo,Huejutla de Reyes,37,A un lado del Banco,21.1293,-98.4257
+1286,Calle 16 de Septiembre,San Juan,Int 201,201,43000,Hidalgo,Huejutla de Reyes,1,Frente al Centro Comercial,21.1267,-98.4265
+1287,Calle Venustiano Carranza,Santa Clara,Int 202,202,43000,Hidalgo,Huejutla de Reyes,3,Cerca del Mercado,21.1273,-98.4283
+1288,Calle Nicolás Bravo,El Álamo,Int 203,203,43000,Hidalgo,Huejutla de Reyes,4,Frente al Supermercado,21.1289,-98.4291
+1289,Calle Ignacio Allende,El Progreso,Int 204,204,43000,Hidalgo,Huejutla de Reyes,5,A un lado del Banco,21.1301,-98.4259
+1290,Calle 5 de Febrero,San Rafael,Int 205,205,43000,Hidalgo,Huejutla de Reyes,6,Frente a la Biblioteca,21.1279,-98.4277
+1291,Calle Benito Juárez,El Paraíso,Int 206,206,43000,Hidalgo,Huejutla de Reyes,9,Cerca del Hospital,21.1293,-98.4245
+1292,Calle Francisco I. Madero,San Juan,Int 207,207,43000,Hidalgo,Huejutla de Reyes,10,Frente al Centro Comercial,21.1265,-98.4289
+1293,Calle Vicente Guerrero,Santa Clara,Int 208,208,43000,Hidalgo,Huejutla de Reyes,11,Cerca del Mercado,21.1259,-98.4293
+1294,Calle Leandro Valle,El Roble,Int 209,209,43000,Hidalgo,Huejutla de Reyes,12,Frente al Supermercado,21.1263,-98.4261
+1295,Calle Pino Suárez,San Rafael,Int 210,210,43000,Hidalgo,Huejutla de Reyes,13,A un lado del Banco,21.1281,-98.4257
+1296,Calle Hermenegildo Galeana,El Progreso,Int 211,211,43000,Hidalgo,Huejutla de Reyes,14,Frente a la Biblioteca,21.1295,-98.4285
+1297,Calle Adolfo López Mateos,El Álamo,Int 212,212,43000,Hidalgo,Huejutla de Reyes,15,Cerca del Hospital,21.1277,-98.4297
+1298,Calle Pedro Moreno,San Antonio,Int 213,213,43000,Hidalgo,Huejutla de Reyes,16,Frente al Centro Comercial,21.1269,-98.4269
+1299,Calle 16 de Septiembre,San Rafael,Int 214,214,43000,Hidalgo,Huejutla de Reyes,17,Cerca del Mercado,21.1283,-98.4271
+1300,Calle Venustiano Carranza,El Álamo,Int 215,215,43000,Hidalgo,Huejutla de Reyes,18,Frente al Supermercado,21.1291,-98.4253
+1301,Calle Nicolás Bravo,Santa Clara,Int 216,216,43000,Hidalgo,Huejutla de Reyes,19,A un lado del Banco,21.1275,-98.4263
+1302,Calle Ignacio Allende,El Progreso,Int 217,217,43000,Hidalgo,Huejutla de Reyes,20,Frente a la Biblioteca,21.1287,-98.4287
+1303,Calle 5 de Febrero,San Antonio,Int 218,218,43000,Hidalgo,Huejutla de Reyes,21,Cerca del Hospital,21.1305,-98.4295
+1304,Calle Benito Juárez,El Roble,Int 219,219,43000,Hidalgo,Huejutla de Reyes,22,Frente al Centro Comercial,21.1299,-98.4267
+1305,Calle Francisco I. Madero,San Juan,Int 220,220,43000,Hidalgo,Huejutla de Reyes,23,Cerca del Mercado,21.1271,-98.4299
+1306,Calle Vicente Guerrero,El Álamo,Int 221,221,43000,Hidalgo,Huejutla de Reyes,24,Frente al Supermercado,21.1261,-98.4281
+1307,Calle Leandro Valle,Santa Clara,Int 222,222,43000,Hidalgo,Huejutla de Reyes,25,A un lado del Banco,21.1285,-98.4251
+1308,Calle Pino Suárez,El Progreso,Int 223,223,43000,Hidalgo,Huejutla de Reyes,26,Frente a la Biblioteca,21.1303,-98.4275
+1309,Calle Hermenegildo Galeana,San Rafael,Int 224,224,43000,Hidalgo,Huejutla de Reyes,27,Cerca del Hospital,21.1267,-98.4293
+1310,Calle Adolfo López Mateos,El Paraíso,Int 225,225,43000,Hidalgo,Huejutla de Reyes,28,Frente al Centro Comercial,21.1289,-98.4281
+1311,Calle Pedro Moreno,San Rafael,Int 226,226,43000,Hidalgo,Huejutla de Reyes,29,Cerca del Mercado,21.1297,-98.4265
+1312,Calle 16 de Septiembre,San Juan,Int 227,227,43000,Hidalgo,Huejutla de Reyes,30,Frente al Supermercado,21.1283,-98.4291
+1313,Calle Venustiano Carranza,Santa Clara,Int 228,228,43000,Hidalgo,Huejutla de Reyes,31,A un lado del Banco,21.1295,-98.4283
+1314,Calle Nicolás Bravo,El Roble,Int 229,229,43000,Hidalgo,Huejutla de Reyes,32,Frente a la Biblioteca,21.1279,-98.4279
+1315,Calle Ignacio Allende,El Progreso,Int 230,230,43000,Hidalgo,Huejutla de Reyes,33,Cerca del Hospital,21.1263,-98.4287
+1316,Calle 5 de Febrero,El Paraíso,Int 231,231,43000,Hidalgo,Huejutla de Reyes,34,Frente al Centro Comercial,21.1281,-98.4273
+1317,Calle Benito Juárez,San Rafael,Int 232,232,43000,Hidalgo,Huejutla de Reyes,35,Cerca del Mercado,21.1271,-98.4269
+1318,Calle Francisco I. Madero,San Juan,Int 233,233,43000,Hidalgo,Huejutla de Reyes,36,Frente al Supermercado,21.1293,-98.4295
+1319,Calle Vicente Guerrero,El Álamo,Int 234,234,43000,Hidalgo,Huejutla de Reyes,37,A un lado del Banco,21.1265,-98.4281
+1320,Calle Leandro Valle,Santa Clara,Int 235,235,43000,Hidalgo,Huejutla de Reyes,1,Frente a la Biblioteca,21.1287,-98.4265
+1321,Calle Pino Suárez,El Progreso,Int 236,236,43000,Hidalgo,Huejutla de Reyes,3,Cerca del Hospital,21.1279,-98.4271
+1322,Calle Hermenegildo Galeana,San Rafael,Int 237,237,43000,Hidalgo,Huejutla de Reyes,4,Frente al Centro Comercial,21.1285,-98.4261
+1323,Calle Adolfo López Mateos,El Álamo,Int 238,238,43000,Hidalgo,Huejutla de Reyes,5,Cerca del Mercado,21.1269,-98.4285
+1324,Calle Pedro Moreno,El Progreso,Int 239,239,43000,Hidalgo,Huejutla de Reyes,6,Frente al Supermercado,21.1291,-98.4293
+1325,Calle 16 de Septiembre,San Antonio,Int 240,240,43000,Hidalgo,Huejutla de Reyes,9,A un lado del Banco,21.1283,-98.4269
+1326,Calle Venustiano Carranza,El Paraíso,Int 241,241,43000,Hidalgo,Huejutla de Reyes,10,Frente a la Biblioteca,21.1275,-98.4275
+1327,Calle Nicolás Bravo,San Rafael,Int 242,242,43000,Hidalgo,Huejutla de Reyes,11,Cerca del Hospital,21.1263,-98.4291
+1328,Calle Ignacio Allende,El Álamo,Int 243,243,43000,Hidalgo,Huejutla de Reyes,12,Frente al Centro Comercial,21.1297,-98.4283
+1329,Calle 5 de Febrero,San Juan,Int 244,244,43000,Hidalgo,Huejutla de Reyes,13,Cerca del Mercado,21.1271,-98.4289
+1330,Calle Benito Juárez,Santa Clara,Int 245,245,43000,Hidalgo,Huejutla de Reyes,14,Frente al Supermercado,21.1289,-98.4265
+1331,Calle Francisco I. Madero,El Progreso,Int 246,246,43000,Hidalgo,Huejutla de Reyes,15,A un lado del Banco,21.1295,-98.4291
+1332,Calle Vicente Guerrero,San Rafael,Int 247,247,43000,Hidalgo,Huejutla de Reyes,16,Frente a la Biblioteca,21.1267,-98.4275
+1333,Calle Leandro Valle,El Roble,Int 248,248,43000,Hidalgo,Huejutla de Reyes,17,Cerca del Hospital,21.1275,-98.4281
+1334,Calle Pino Suárez,San Antonio,Int 249,249,43000,Hidalgo,Huejutla de Reyes,18,Frente al Centro Comercial,21.1293,-98.4287
+1335,Calle Hermenegildo Galeana,El Álamo,Int 250,250,43000,Hidalgo,Huejutla de Reyes,19,Cerca del Mercado,21.1281,-98.4263
+1336,Calle Adolfo López Mateos,El Paraíso,Int 251,251,43000,Hidalgo,Huejutla de Reyes,20,Frente al Supermercado,21.1265,-98.4297
+1337,Calle Pedro Moreno,San Rafael,Int 252,252,43000,Hidalgo,Huejutla de Reyes,21,A un lado del Banco,21.1273,-98.4295
+1338,Calle 16 de Septiembre,El Progreso,Int 253,253,43000,Hidalgo,Huejutla de Reyes,22,Frente a la Biblioteca,21.1287,-98.4293
+1339,Calle Venustiano Carranza,El Roble,Int 254,254,43000,Hidalgo,Huejutla de Reyes,23,Cerca del Hospital,21.1295,-98.4271
+1340,Calle Nicolás Bravo,San Juan,Int 255,255,43000,Hidalgo,Huejutla de Reyes,24,Frente al Centro Comercial,21.1263,-98.4285
+1341,Calle Ignacio Allende,San Rafael,Int 256,256,43000,Hidalgo,Huejutla de Reyes,25,Cerca del Mercado,21.1279,-98.4289
+1342,Calle 5 de Febrero,El Paraíso,Int 257,257,43000,Hidalgo,Huejutla de Reyes,26,Frente al Supermercado,21.1285,-98.4267
+1343,Calle Benito Juárez,San Rafael,Int 258,258,43000,Hidalgo,Huejutla de Reyes,27,A un lado del Banco,21.1291,-98.4297
+1344,Calle Francisco I. Madero,El Álamo,Int 259,259,43000,Hidalgo,Huejutla de Reyes,28,Frente a la Biblioteca,21.1277,-98.4291
+1345,Calle Vicente Guerrero,San Antonio,Int 260,260,43000,Hidalgo,Huejutla de Reyes,29,Cerca del Hospital,21.1265,-98.4283
+1346,Calle Leandro Valle,El Progreso,Int 261,261,43000,Hidalgo,Huejutla de Reyes,30,Frente al Centro Comercial,21.1283,-98.4269
+1347,Calle Pino Suárez,San Rafael,Int 262,262,43000,Hidalgo,Huejutla de Reyes,31,Cerca del Mercado,21.1271,-98.4295
+1348,Calle Hermenegildo Galeana,El Álamo,Int 263,263,43000,Hidalgo,Huejutla de Reyes,32,Frente al Supermercado,21.1289,-98.4263
+1349,Calle Adolfo López Mateos,Santa Clara,Int 264,264,43000,Hidalgo,Huejutla de Reyes,33,A un lado del Banco,21.1267,-98.4281
+1350,Calle Pedro Moreno,El Progreso,Int 265,265,43000,Hidalgo,Huejutla de Reyes,34,Frente a la Biblioteca,21.1275,-98.4293
+1351,Calle 16 de Septiembre,El Roble,Int 266,266,43000,Hidalgo,Huejutla de Reyes,35,Cerca del Hospital,21.1283,-98.4275
+1352,Calle Venustiano Carranza,San Rafael,Int 267,267,43000,Hidalgo,Huejutla de Reyes,36,Frente al Centro Comercial,21.1291,-98.4287
+1353,Calle Nicolás Bravo,El Paraíso,Int 268,268,43000,Hidalgo,Huejutla de Reyes,37,Cerca del Mercado,21.1261,-98.4269
+1354,Calle de la Libertad,Colonia La Joya,Int 301,301,43000,Hidalgo,Huejutla de Reyes,1,Cerca de la Plaza Principal,21.1508,-98.4203
+1355,Calle del Mezquite,Colonia El Roble,Int 302,302,43000,Hidalgo,Huejutla de Reyes,3,Frente a la Iglesia,21.1491,-98.4186
+1356,Calle de la Primavera,Colonia El Olmo,Int 303,303,43000,Hidalgo,Huejutla de Reyes,4,Cerca del Parque,21.1512,-98.4195
+1357,Calle de los Pinos,Colonia El Paraíso,Int 304,304,43000,Hidalgo,Huejutla de Reyes,5,Cerca del Gimnasio,21.1520,-98.4212
+1358,Calle de la Esperanza,Colonia San Juan,Int 305,305,43000,Hidalgo,Huejutla de Reyes,6,Cerca del Mercado Municipal,21.1489,-98.4178
+1359,Calle del Sol,Colonia El Álamo,Int 306,306,43000,Hidalgo,Huejutla de Reyes,9,Frente a la Escuela Primaria,21.1502,-98.4205
+1360,Calle de la Luna,Colonia San Rafael,Int 307,307,43000,Hidalgo,Huejutla de Reyes,10,Cerca de la Biblioteca,21.1495,-98.4189
+1361,Calle del Cielo,Colonia La Joya,Int 308,308,43000,Hidalgo,Huejutla de Reyes,11,Frente al Centro de Salud,21.1518,-98.4192
+1362,Calle del Viento,Colonia El Roble,Int 309,309,43000,Hidalgo,Huejutla de Reyes,12,Cerca del Supermercado,21.1482,-98.4210
+1363,Calle de las Flores,Colonia El Olmo,Int 310,310,43000,Hidalgo,Huejutla de Reyes,13,Cerca del Parque Infantil,21.1505,-98.4201
+1364,Calle del Arco,Colonia El Paraíso,Int 311,311,43000,Hidalgo,Huejutla de Reyes,14,Frente a la Plaza de la Cultura,21.1498,-98.4184
+1365,Calle de la Alegría,Colonia San Juan,Int 312,312,43000,Hidalgo,Huejutla de Reyes,15,Cerca de la Farmacia,21.1510,-98.4198
+1366,Calle del Reloj,Colonia El Álamo,Int 313,313,43000,Hidalgo,Huejutla de Reyes,16,Frente al Teatro Municipal,21.1501,-98.4213
+1367,Calle del Río,Colonia San Rafael,Int 314,314,43000,Hidalgo,Huejutla de Reyes,17,Cerca del Cine,21.1485,-98.4197
+1368,Calle de los Robles,Colonia La Joya,Int 315,315,43000,Hidalgo,Huejutla de Reyes,18,Frente a la Panadería,21.1509,-98.4183
+1369,Calle del Sendero,Colonia El Roble,Int 316,316,43000,Hidalgo,Huejutla de Reyes,19,Cerca de la Casa de la Cultura,21.1493,-98.4207
+1370,Calle de la Roca,Colonia El Olmo,Int 317,317,43000,Hidalgo,Huejutla de Reyes,20,Cerca del Centro Deportivo,21.1522,-98.4194
+1371,Calle del Jazmín,Colonia El Paraíso,Int 318,318,43000,Hidalgo,Huejutla de Reyes,21,Frente a la Clínica,21.1515,-98.4211
+1372,Calle del Valle,Colonia San Juan,Int 319,319,43000,Hidalgo,Huejutla de Reyes,22,Cerca del Centro Cultural,21.1499,-98.4187
+1373,Calle de la Colina,Colonia El Álamo,Int 320,320,43000,Hidalgo,Huejutla de Reyes,23,Frente a la Escuela Secundaria,21.1506,-98.4200
+1374,Calle del Águila,Colonia San Rafael,Int 321,321,43000,Hidalgo,Huejutla de Reyes,24,Cerca de la Plaza de la Ciudad,21.1492,-98.4182
+1375,Calle del Naranjo,Colonia La Joya,Int 322,322,43000,Hidalgo,Huejutla de Reyes,25,Frente al Hospital,21.1503,-98.4214
+1376,Calle de la Cascada,Colonia El Roble,Int 323,323,43000,Hidalgo,Huejutla de Reyes,26,Cerca del Jardín Botánico,21.1496,-98.4188
+1377,Calle del Mar,Colonia El Olmo,Int 324,324,43000,Hidalgo,Huejutla de Reyes,27,Frente a la Biblioteca Pública,21.1519,-98.4193
+1378,Calle del Jardín,Colonia El Paraíso,Int 325,325,43000,Hidalgo,Huejutla de Reyes,28,Cerca del Centro de Convenciones,21.1507,-98.4206
+1379,Calle de la Plaza,Colonia San Juan,Int 326,326,43000,Hidalgo,Huejutla de Reyes,29,Frente a la Plaza de Eventos,21.1484,-98.4194
+1380,Calle del Mirador,Colonia El Álamo,Int 327,327,43000,Hidalgo,Huejutla de Reyes,30,Cerca del Centro Médico,21.1508,-98.4215
+1381,Calle del Parque,Colonia San Rafael,Int 328,328,43000,Hidalgo,Huejutla de Reyes,31,Frente a la Estación de Bomberos,21.1497,-98.4204
+1382,Calle de los Olivos,Colonia La Joya,Int 329,329,43000,Hidalgo,Huejutla de Reyes,32,Cerca del Teatro de la Ciudad,21.1502,-98.4189
+1383,Calle del Boulevard,Colonia El Roble,Int 330,330,43000,Hidalgo,Huejutla de Reyes,33,Frente a la Casa del Arte,21.1493,-98.4203
+1384,Calle del Sendero,Colonia El Olmo,Int 331,331,43000,Hidalgo,Huejutla de Reyes,34,Cerca del Zoológico,21.1520,-98.4191
+1385,Calle del Rio,Colonia El Paraíso,Int 332,332,43000,Hidalgo,Huejutla de Reyes,35,Frente a la Oficina de Turismo,21.1511,-98.4208
+1386,Calle de los Álamos,Colonia El Bosque,Int 351,351,43000,Hidalgo,Huejutla de Reyes,1,Cerca de la biblioteca central,21.1512,-98.4223
+1387,Calle de los Cedros,Colonia La Hacienda,Int 352,352,43000,Hidalgo,Huejutla de Reyes,3,Frente al parque central,21.1525,-98.4218
+1388,Calle del Encino,Colonia Las Flores,Int 353,353,43000,Hidalgo,Huejutla de Reyes,4,Cerca de la clínica del IMSS,21.1506,-98.4207
+1389,Calle del Pino,Colonia San Antonio,Int 354,354,43000,Hidalgo,Huejutla de Reyes,5,Frente al mercado municipal,21.1498,-98.4196
+1390,Calle del Sauce,Colonia El Retiro,Int 355,355,43000,Hidalgo,Huejutla de Reyes,6,Cerca del centro deportivo,21.1503,-98.4215
+1391,Calle del Ciprés,Colonia Los Pinos,Int 356,356,43000,Hidalgo,Huejutla de Reyes,9,Frente a la iglesia,21.1517,-98.4220
+1392,Calle del Fresno,Colonia La Esperanza,Int 357,357,43000,Hidalgo,Huejutla de Reyes,10,Cerca de la estación de bomberos,21.1521,-98.4209
+1393,Calle del Nogal,Colonia Los Álamos,Int 358,358,43000,Hidalgo,Huejutla de Reyes,11,Frente a la escuela primaria,21.1514,-98.4213
+1394,Calle del Roble,Colonia La Joya,Int 359,359,43000,Hidalgo,Huejutla de Reyes,12,Cerca del supermercado,21.1495,-98.4204
+1395,Calle del Sabino,Colonia San Pedro,Int 360,360,43000,Hidalgo,Huejutla de Reyes,13,Frente al hospital general,21.1500,-98.4211
+1396,Calle del Laurel,Colonia La Joya,Int 361,361,43000,Hidalgo,Huejutla de Reyes,14,Cerca del parque recreativo,21.1522,-98.4205
+1397,Calle del Manzano,Colonia El Rosario,Int 362,362,43000,Hidalgo,Huejutla de Reyes,15,Frente a la casa de la cultura,21.1501,-98.4224
+1398,Calle del Olivo,Colonia Las Américas,Int 363,363,43000,Hidalgo,Huejutla de Reyes,16,Cerca de la biblioteca pública,21.1516,-98.4212
+1399,Calle del Sauce,Colonia El Retiro,Int 364,364,43000,Hidalgo,Huejutla de Reyes,17,Frente al centro de salud,21.1504,-98.4198
+1400,Calle del Ciruelo,Colonia San Rafael,Int 365,365,43000,Hidalgo,Huejutla de Reyes,18,Cerca del teatro municipal,21.1497,-98.4210
+1401,Calle del Abedul,Colonia La Hacienda,Int 366,366,43000,Hidalgo,Huejutla de Reyes,19,Frente al centro comercial,21.1510,-98.4225
+1402,Calle del Tejo,Colonia Los Pinos,Int 367,367,43000,Hidalgo,Huejutla de Reyes,20,Cerca del parque infantil,21.1508,-98.4208
+1403,Calle del Toronjo,Colonia San Juan,Int 368,368,43000,Hidalgo,Huejutla de Reyes,21,Frente a la clínica dental,21.1524,-98.4219
+1404,Calle del Cedro,Colonia El Olmo,Int 369,369,43000,Hidalgo,Huejutla de Reyes,22,Cerca de la panadería,21.1502,-98.4203
+1405,Calle del Granado,Colonia La Joya,Int 370,370,43000,Hidalgo,Huejutla de Reyes,23,Frente al banco,21.1496,-98.4220
+1406,Calle del Abeto,Colonia El Álamo,Int 371,371,43000,Hidalgo,Huejutla de Reyes,24,Cerca de la estación de policía,21.1505,-98.4197
+1407,Calle del Ciruelo,Colonia San Antonio,Int 372,372,43000,Hidalgo,Huejutla de Reyes,25,Frente a la universidad,21.1519,-98.4216
+1408,Calle del Peral,Colonia El Roble,Int 373,373,43000,Hidalgo,Huejutla de Reyes,26,Cerca del zoológico,21.1494,-98.4202
+1409,Calle del Manzano,Colonia El Paraíso,Int 374,374,43000,Hidalgo,Huejutla de Reyes,27,Frente al museo,21.1509,-98.4221
+1410,Calle del Tejo,Colonia San Rafael,Int 375,375,43000,Hidalgo,Huejutla de Reyes,28,Cerca de la estación de bomberos,21.1523,-98.4214
+1411,Calle del Granado,Colonia La Hacienda,Int 376,376,43000,Hidalgo,Huejutla de Reyes,29,Frente a la casa de la cultura,21.1513,-98.4206
+1412,Calle del Toronjo,Colonia Las Flores,Int 377,377,43000,Hidalgo,Huejutla de Reyes,30,Cerca del centro de convenciones,21.1507,-98.4215
+1413,Calle del Roble,Colonia La Joya,Int 378,378,43000,Hidalgo,Huejutla de Reyes,31,Frente al parque,21.1499,-98.4222
+1414,Calle del Fresno,Colonia El Bosque,Int 379,379,43000,Hidalgo,Huejutla de Reyes,32,Cerca de la clínica del IMSS,21.1520,-98.4213
+1415,Calle del Cedro,Colonia San Antonio,Int 380,380,43000,Hidalgo,Huejutla de Reyes,33,Frente al mercado municipal,21.1500,-98.4200
+1416,Calle del Tejo,Colonia El Rosario,Int 381,381,43000,Hidalgo,Huejutla de Reyes,34,Cerca del parque recreativo,21.1518,-98.4219
+1417,Calle del Manzano,Colonia El Olmo,Int 382,382,43000,Hidalgo,Huejutla de Reyes,35,Frente a la biblioteca central,21.1504,-98.4199
+1418,Calle del Abedul,Colonia Las Américas,Int 383,383,43000,Hidalgo,Huejutla de Reyes,36,Cerca de la escuela secundaria,21.1491,-98.4217
+1419,Calle de los Álamos,Colonia El Bosque,Int 351,351,43000,Hidalgo,Huejutla de Reyes,1,Cerca de la biblioteca central,21.1531,-98.4050
+1420,Calle de los Cedros,Colonia La Hacienda,Int 352,352,43000,Hidalgo,Huejutla de Reyes,3,Frente al parque central,21.1542,-98.4045
+1421,Calle del Encino,Colonia Las Flores,Int 353,353,43000,Hidalgo,Huejutla de Reyes,4,Cerca de la clínica del IMSS,21.1553,-98.4040
+1422,Calle del Pino,Colonia San Antonio,Int 354,354,43000,Hidalgo,Huejutla de Reyes,5,Frente al mercado municipal,21.1564,-98.4035
+1423,Calle del Sauce,Colonia El Retiro,Int 355,355,43000,Hidalgo,Huejutla de Reyes,6,Cerca del centro deportivo,21.1575,-98.4030
+1424,Calle del Ciprés,Colonia Los Pinos,Int 356,356,43000,Hidalgo,Huejutla de Reyes,9,Frente a la iglesia,21.1586,-98.4025
+1425,Calle del Fresno,Colonia La Esperanza,Int 357,357,43000,Hidalgo,Huejutla de Reyes,10,Cerca de la estación de bomberos,21.1597,-98.4020
+1426,Calle del Nogal,Colonia Los Álamos,Int 358,358,43000,Hidalgo,Huejutla de Reyes,11,Frente a la escuela primaria,21.1532,-98.4051
+1427,Calle del Roble,Colonia La Joya,Int 359,359,43000,Hidalgo,Huejutla de Reyes,12,Cerca del supermercado,21.1543,-98.4046
+1428,Calle del Sabino,Colonia San Pedro,Int 360,360,43000,Hidalgo,Huejutla de Reyes,13,Frente al hospital general,21.1554,-98.4041
+1429,Calle del Laurel,Colonia La Joya,Int 361,361,43000,Hidalgo,Huejutla de Reyes,14,Cerca del parque recreativo,21.1565,-98.4036
+1430,Calle del Manzano,Colonia El Rosario,Int 362,362,43000,Hidalgo,Huejutla de Reyes,15,Frente a la casa de la cultura,21.1576,-98.4031
+1431,Calle del Olivo,Colonia Las Américas,Int 363,363,43000,Hidalgo,Huejutla de Reyes,16,Cerca de la biblioteca pública,21.1587,-98.4026
+1432,Calle del Sauce,Colonia El Retiro,Int 364,364,43000,Hidalgo,Huejutla de Reyes,17,Frente al centro de salud,21.1598,-98.4021
+1433,Calle del Ciruelo,Colonia San Rafael,Int 365,365,43000,Hidalgo,Huejutla de Reyes,18,Cerca del teatro municipal,21.1533,-98.4052
+1434,Calle del Abedul,Colonia La Hacienda,Int 366,366,43000,Hidalgo,Huejutla de Reyes,19,Frente al centro comercial,21.1544,-98.4047
+1435,Calle del Tejo,Colonia Los Pinos,Int 367,367,43000,Hidalgo,Huejutla de Reyes,20,Cerca del parque infantil,21.1555,-98.4042
+1436,Calle del Toronjo,Colonia San Juan,Int 368,368,43000,Hidalgo,Huejutla de Reyes,21,Frente a la clínica dental,21.1566,-98.4037
+1437,Calle del Cedro,Colonia El Olmo,Int 369,369,43000,Hidalgo,Huejutla de Reyes,22,Cerca de la panadería,21.1577,-98.4032
+1438,Calle del Granado,Colonia La Joya,Int 370,370,43000,Hidalgo,Huejutla de Reyes,23,Frente al banco,21.1588,-98.4027
+1439,Calle del Abeto,Colonia El Álamo,Int 371,371,43000,Hidalgo,Huejutla de Reyes,24,Cerca de la estación de policía,21.1599,-98.4022
+1440,Calle del Ciruelo,Colonia San Antonio,Int 372,372,43000,Hidalgo,Huejutla de Reyes,25,Frente a la universidad,21.1534,-98.4053
+1441,Calle del Peral,Colonia El Roble,Int 373,373,43000,Hidalgo,Huejutla de Reyes,26,Cerca del zoológico,21.1545,-98.4048
+1442,Calle del Manzano,Colonia El Paraíso,Int 374,374,43000,Hidalgo,Huejutla de Reyes,27,Frente al museo,21.1556,-98.4043
+1443,Calle del Tejo,Colonia San Rafael,Int 375,375,43000,Hidalgo,Huejutla de Reyes,28,Cerca de la estación de bomberos,21.1567,-98.4038
+1444,Calle del Granado,Colonia La Hacienda,Int 376,376,43000,Hidalgo,Huejutla de Reyes,29,Frente a la casa de la cultura,21.1578,-98.4033
+1445,Calle del Toronjo,Colonia Las Flores,Int 377,377,43000,Hidalgo,Huejutla de Reyes,30,Cerca del centro de convenciones,21.1589,-98.4028
+1446,Calle del Roble,Colonia La Joya,Int 378,378,43000,Hidalgo,Huejutla de Reyes,31,Frente al parque,21.1530,-98.4054
+1447,Calle del Fresno,Colonia El Bosque,Int 379,379,43000,Hidalgo,Huejutla de Reyes,32,Cerca de la clínica del IMSS,21.1541,-98.4049
+1448,Calle del Cedro,Colonia San Antonio,Int 380,380,43000,Hidalgo,Huejutla de Reyes,33,Frente al mercado municipal,21.1552,-98.4044
+1449,Calle del Tejo,Colonia El Rosario,Int 381,381,43000,Hidalgo,Huejutla de Reyes,34,Cerca del parque recreativo,21.1563,-98.4039
+1450,Calle del Manzano,Colonia El Olmo,Int 382,382,43000,Hidalgo,Huejutla de Reyes,35,Frente a la biblioteca central,21.1574,-98.4034
+1451,Calle del Abedul,Colonia Las Américas,Int 383,383,43000,Hidalgo,Huejutla de Reyes,36,Cerca de la escuela secundaria,21.1585,-98.4029
+1452,Calle del Ciprés,Colonia La Joya,Int 384,384,43000,Hidalgo,Huejutla de Reyes,1,Cerca del hospital,21.1542,-98.4041
+1453,Calle del Abeto,Colonia Los Pinos,Int 385,385,43000,Hidalgo,Huejutla de Reyes,3,Frente a la iglesia,21.1561,-98.4032
+1454,Calle del Fresno,Colonia La Esperanza,Int 386,386,43000,Hidalgo,Huejutla de Reyes,4,Cerca del parque,21.1573,-98.4035
+1455,Calle del Sauce,Colonia El Retiro,Int 387,387,43000,Hidalgo,Huejutla de Reyes,5,Frente a la tienda,21.1554,-98.4040
+1456,Calle del Cedro,Colonia La Joya,Int 388,388,43000,Hidalgo,Huejutla de Reyes,6,Cerca de la escuela,21.1536,-98.4047
+1457,Calle del Roble,Colonia Las Flores,Int 389,389,43000,Hidalgo,Huejutla de Reyes,9,Frente a la plaza,21.1558,-98.4038
+1458,Calle del Toronjo,Colonia San Pedro,Int 390,390,43000,Hidalgo,Huejutla de Reyes,10,Cerca de la farmacia,21.1570,-98.4033
+1459,Calle del Ciruelo,Colonia El Olmo,Int 391,391,43000,Hidalgo,Huejutla de Reyes,11,Frente al parque infantil,21.1539,-98.4044
+1460,Calle del Granado,Colonia Los Álamos,Int 392,392,43000,Hidalgo,Huejutla de Reyes,12,Cerca del gimnasio,21.1551,-98.4039
+1461,Calle del Pino,Colonia La Hacienda,Int 393,393,43000,Hidalgo,Huejutla de Reyes,13,Frente a la biblioteca,21.1562,-98.4036
+1462,Calle del Manzano,Colonia San Antonio,Int 394,394,43000,Hidalgo,Huejutla de Reyes,14,Cerca del mercado,21.1545,-98.4043
+1463,Calle del Ciprés,Colonia El Roble,Int 395,395,43000,Hidalgo,Huejutla de Reyes,15,Frente al cine,21.1559,-98.4031
+1464,Calle del Nogal,Colonia El Rosario,Int 396,396,43000,Hidalgo,Huejutla de Reyes,16,Cerca de la clínica,21.1571,-98.4034
+1465,Calle del Laurel,Colonia El Paraíso,Int 397,397,43000,Hidalgo,Huejutla de Reyes,17,Frente a la panadería,21.1547,-98.4040
+1466,Calle del Ciruelo,Colonia La Joya,Int 398,398,43000,Hidalgo,Huejutla de Reyes,18,Cerca del zoológico,21.1550,-98.4042
+1467,Calle del Tejo,Colonia Las Américas,Int 399,399,43000,Hidalgo,Huejutla de Reyes,19,Frente a la iglesia,21.1568,-98.4030
+1468,Calle del Toronjo,Colonia San Juan,Int 400,400,43000,Hidalgo,Huejutla de Reyes,20,Cerca del hospital,21.1572,-98.4037
